@@ -12,4 +12,5 @@ pnpm dev
 ## Other improvements to be considered
 - Move the ordered list to a separate page.
 - Add button to update the ordered list or remove from the list
-- Add unit tests 
+- Add unit tests
+- Adding pagination should be considered for a real-world app since the list will likely grow, but in this case it's too small to do so.
